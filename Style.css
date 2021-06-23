@@ -46,6 +46,8 @@ section{
 }
 #Box{
     margin-left: 5%;
+    border: 3px solid black;
+    border-radius: 9px;
     padding: 2%;
     margin-bottom: 8px;
     height: 250px;
@@ -68,5 +70,5 @@ section{
     background-repeat: no-repeat;
 }
 .sp{
-    box-shadow: 10px 10px 40x red;   
+    box-shadow: 10px 10px 40px red;
 }
