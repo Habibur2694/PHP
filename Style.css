@@ -1,0 +1,72 @@
+body{
+    margin: 0px;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 55px;
+}
+.name-h{
+       color: orange;
+}
+h3{
+    font-family: 'Dela Gothic One', cursive;
+}
+p{
+    font-family: 'Kirang Haerang', cursive;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left:5%;
+    padding-left:2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("top-banner.png");
+    background-repeat: no-repeat;
+
+
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    color: cornsilk;
+    background-color:black;
+    border-radius:5px;
+    border: 10px solid black;
+    height: 20px;
+    width: 10px;
+}
+#Exp{
+    margin-left:5%;
+}
+#Box{
+    margin-left: 5%;
+    padding: 2%;
+    margin-bottom: 8px;
+    height: 250px;
+    width: 500px;
+    float: left;
+   
+}
+#footer{
+    text-align: center;
+    color: black;
+
+}
+.nd-banner{
+    background-image: url("dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.Ep{
+    background-image: url("exp-bg.png");
+    background-repeat: no-repeat;
+}
+.sp{
+    box-shadow: 10px 10px 40x red;   
+}
